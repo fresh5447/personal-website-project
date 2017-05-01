@@ -5,6 +5,6 @@ module.exports = () => {
 
   mongoose.connect("mongodb://localhost/personal-website");
 
-  console.log("connected to Database")
+  console.log(" 📁 📂 🗄 DATABSE RUNNING🗄 📂 📁")
 
 }

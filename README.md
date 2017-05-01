@@ -1,4 +1,4 @@
-Stage One:
+### Stage One
 
 Create a functional backend capable of CRUD with Articles.
 
@@ -21,3 +21,17 @@ Requirements:
 Use Mongo & mongoose
 Use Express
 Ignore Node Modules
+
+
+### Stage Two
+
+Use custom-react-scripts to generate a client
+https://www.npmjs.com/package/custom-react-scripts
+
+
+
+Add a Procfile.dev and a command to start your client & node with one command (if on windows)
+Using react router create pages for
+  - Home
+  - About
+  - Articles
