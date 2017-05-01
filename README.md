@@ -23,15 +23,10 @@ Use Express
 Ignore Node Modules
 
 
-### Stage Two
+### Stage Three
 
-Use custom-react-scripts to generate a client
-https://www.npmjs.com/package/custom-react-scripts
+Client Side Crude
 
-
-
-Add a Procfile.dev and a command to start your client & node with one command (if on windows)
-Using react router create pages for
-  - Home
-  - About
-  - Articles
+For articles implement the following abilities: view all, view one, edit, delete.
+It is recommended you render the sub-containers as children of the main Articles component.
+Set view all to the IndexRoute.
